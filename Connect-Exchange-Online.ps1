@@ -1,0 +1,17 @@
+﻿Set-ExecutionPolicy RemoteSigned
+$UserCredential = Get-Credential
+
+$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection
+Import-PSSession $Session
+
+#Import-Module
+Import-Module ExchangeOnlineManagement
+
+#Get-Mailbox
+Get-Mailbox
+
+Get-AzureADSubscribedSku
+
+
+#Get-Mailbox
+get-mailbox | select Name , Alias

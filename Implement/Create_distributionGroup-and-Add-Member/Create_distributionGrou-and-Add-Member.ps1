@@ -2,7 +2,7 @@
 Connect-ExchangeOnline
 
 #Create-New-DistributionGroup-Multi
-$group = Import-CSv -Path "C:\member\add_Group.csv"
+$group = Import-CSv -Path ".\add_Group.csv"
 $group | ForEach-Object{
 New-DistributionGroup -Name $_.GroupName -PrimarySmtpAddress $_.Emailgroup
 Write-host -f Green "Create Group $_.GroupName to Office 365 Group"
@@ -15,7 +15,7 @@ New-DistributionGroup -Name "groupname" -PrimarySmtpAddress groupname@xxx.co.th
 
 #Import-User
 
-$users = Import-CSv -Path "C:\member\add_member.csv"
+$users = Import-CSv -Path ".\add_member.csv"
 
  
 

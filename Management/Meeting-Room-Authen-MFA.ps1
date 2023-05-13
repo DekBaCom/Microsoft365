@@ -1,14 +1,16 @@
+#Install module 
 ﻿Install-Module PowerShellGet -Force
 
+#install Module 
 Install-Module –Name ExchangeOnlineManagement
 
-	
+#ConnectExchangeonline
 Connect-ExchangeOnline
 
 #Get-Mailbox
-Get-Mailbox -RecipientTypeDetails RoomMailbox -Identity "UBC2 B1-1 90 seats"
+Get-Mailbox -RecipientTypeDetails RoomMailbox -Identity "<room name >"
 
-#Get-DistributionGroup
+#Get-all-DistributionGroup
 Get-DistributionGroup -RecipientTypeDetails RoomList
 
  #สร้างเมล์ห้องประชุม

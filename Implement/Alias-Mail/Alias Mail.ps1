@@ -8,7 +8,7 @@ Facebook :  ilikeit.info
 Youtube : ilikeit.info
 Github : DekBaCom
 E-Mail:  Abdulloh.eg@gmail.com
-For detailed Script execution: https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateAccount
+For detailed Script execution: https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Alias-Mail
 ============================================================================================
 #>
 

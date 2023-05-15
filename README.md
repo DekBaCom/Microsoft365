@@ -7,7 +7,7 @@
 - [How to create distributiongroup and add member ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-Create-distributionGroup-and-Add-Member)
 - [How to create new account assign license and force change passwork next logon ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateAccount)
 - [How to create Meeting room and Room list ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/RoomMeeting)
-- [How to Foce active onedrive](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-force-ActiveOndrive)
+- [How to Foce enable onedrive](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-force-EnableOndrive)
 - [How to Create Sharemailbox](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateShareMailbox)
 - [How to add alias mail ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Alias-Mail)
 

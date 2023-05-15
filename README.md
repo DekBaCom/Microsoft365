@@ -9,6 +9,7 @@
 - [How to create Meeting room and Room list ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/RoomMeeting)
 - [How to Foce active onedrive](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-force-ActiveOndrive)
 - [How to Create Sharemailbox](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateShareMailbox)
+- [How to add alias mail ](https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Alias-Mail)
 
 ## 🚀 About Me
  - [Who am I ](https://www.linkedin.com/in/abdulloh-etaeluengoh/)

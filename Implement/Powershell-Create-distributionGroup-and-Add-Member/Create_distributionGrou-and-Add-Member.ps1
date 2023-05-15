@@ -1,3 +1,17 @@
+<#
+=============================================================================================
+Name:           Script create and assign member to group with Powershell
+Description:    This script for execution create and assign member to group with Powershell
+Script by:      Abdulloh Etaeluengoh
+Tiktok : @ilikeit.info
+Facebook :  ilikeit.info
+Youtube : ilikeit.info
+Github : DekBaCom
+E-Mail:  Abdulloh.eg@gmail.com
+For detailed Script execution: https://github.com/DekBaCom/Microsoft365/tree/main/Implement/Powershell-Create-distributionGroup-and-Add-Member
+============================================================================================
+#>
+
 #First Connect Exchange Online
 ﻿#Connect Exchange
 Connect-ExchangeOnline

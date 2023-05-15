@@ -1,4 +1,16 @@
-﻿
+﻿<#
+=============================================================================================
+Name:           Script create sharemailbox  and assign owner with Powershell
+Description:    This script for execution create sharemailbox  and assign owner with Powershell
+Script by:      Abdulloh Etaeluengoh
+Tiktok : @ilikeit.info
+Facebook :  ilikeit.info
+Youtube : ilikeit.info
+Github : DekBaCom
+E-Mail:  Abdulloh.eg@gmail.com
+For detailed Script execution: https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateShareMailbox
+============================================================================================
+#>
 Connect-ExchangeOnline
 
 #Single

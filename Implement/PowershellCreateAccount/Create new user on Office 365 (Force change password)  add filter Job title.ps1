@@ -1,4 +1,17 @@
-﻿#Install-Module
+﻿<#
+=============================================================================================
+Name:           Script create an account and assign license with Powershell
+Description:    This script for execution create an account and assign licenses with Powershell
+Script by:      Abdulloh Etaeluengoh
+Tiktok : @ilikeit.info
+Facebook :  ilikeit.info
+Youtube : ilikeit.info
+Github : DekBaCom
+E-Mail:  Abdulloh.eg@gmail.com
+For detailed Script execution: https://github.com/DekBaCom/Microsoft365/tree/main/Implement/PowershellCreateAccount
+============================================================================================
+#>
+#Install-Module
 Install-Module MSOnline
 
 

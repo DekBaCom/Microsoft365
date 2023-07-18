@@ -26,4 +26,4 @@ New-AzureADMSInvitation -InvitedUserDisplayName $GuestUserName -InvitedUserEmail
 
 Get-AzureADUser -Filter "UserType eq 'Guest'" | Select DisplayName, UserState, UserPrincipalName
 
-Get-AzureADUser -Filter "Mail eq 'kim_navy@hotmail.com'" | FL
+
